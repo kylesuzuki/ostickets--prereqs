@@ -1,3 +1,5 @@
+<h1>Work in Progress (please check back later for updates).</h1>
+
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
